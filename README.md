@@ -7,7 +7,7 @@ to Skyrim Special Edition.
 
 The esp was ported using Bathesda Creation Kit, I just loaded it, made a trivial change, undid the change and saved it.
 The bsa was repacked for SSE using Cathedral Assets Optimiser https://www.nexusmods.com/skyrimspecialedition/mods/23316 .
-Feel free to repeat these steps yourself if you dont want to use my version.
+Feel free to repeat these steps yourself if you dont want to use my version but to be clear the file on here is ALREADY PORTED FOR YOU.
 
 # Download
 Click on the .7z file and then select "download raw" from the download icon (the downwards arrow).
